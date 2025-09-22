@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknew_bedford_framework=self.webpackChunknew_bedford_framework||[]).push([[4583],{64557:function(e,t,n){n.r(t);t.default=function(e){var t=function(){var t=document.querySelectorAll("main .page-section");if(0!==t.length){var n=t[t.length-1].dataset.sectionTheme;e.dataset.sectionTheme=n}};return t(),{matchLastSectionColorTheme:t}}}}]);
